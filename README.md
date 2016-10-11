@@ -1,2 +1,2 @@
 # ZYNQ-LNX
-Design related to Linux on ZYNQ
+Design examples with driver, firmware, user app.
